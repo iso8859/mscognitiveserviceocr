@@ -4,3 +4,5 @@ MS Cognitive Service OCR in Winform / Load / DoOcr / See BoundingBox
 Create an environment variable Ocp-Apim-Subscription-Key with your key.
 
 Visualy test MS Cognitive Service OCR
+
+https://www.microsoft.com/cognitive-services/en-US/subscriptions
